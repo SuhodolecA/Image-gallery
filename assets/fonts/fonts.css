@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Qahiri';
+    src: url('Qahiri-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Qahiri-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Qahiri-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('Qahiri-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('Qahiri-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('Qahiri-Regular.svg#Qahiri-Regular') format('svg'); /* Legacy iOS */
+  }
